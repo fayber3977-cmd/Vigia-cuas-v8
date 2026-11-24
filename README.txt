@@ -1,0 +1,1 @@
+VIGÍA V8. Mapa GPS con puntos nombrados, cámara y fotos, registro de eventos, estadísticas y exportación/importación JSON. Datos locales: exporta copias antes de borrar almacenamiento. No identifica ni confirma drones; no es detector certificado. Publica el contenido en raíz de GitHub Pages (main / root).
